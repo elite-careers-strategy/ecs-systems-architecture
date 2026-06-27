@@ -1,13 +1,14 @@
 # Publication Checklist
 
-This repository is private while being prepared.
+This checklist keeps the repository public-safe over time.
 
-Before changing visibility:
+Before adding or changing material:
 
-- Review every file.
 - Keep the content high-level.
 - Do not include operational details.
 - Do not include private examples.
+- Do not include client identities.
+- Do not include internal pricing.
 - Confirm the README explains the scope.
 
-Owner approval is required before public release.
+Owner approval is required before major changes.
