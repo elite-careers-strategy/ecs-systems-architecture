@@ -1,6 +1,6 @@
-This repository is a public transparency layer, not the internal ECS operating system.
-
 # ECS Systems Architecture
+
+This repository is a public transparency layer, not the internal ECS operating system.
 
 Public-safe architecture and operating principles for Elite Careers Strategy.
 
@@ -46,16 +46,11 @@ The ECS system has five public-safe layers:
 - [Proof governance](docs/proof-governance.md)
 - [Intake to engagement](docs/intake-to-engagement.md)
 
-
 ## Operating principle
 
 The system is designed around one constraint: founder judgement should be reserved for the work where founder judgement is decisive.
 
 Everything else should become a repeatable process, a template, a checklist, a workflow or an agent-supported task.
-
-## Status
-
-Do not make public until the final public-safety review is complete.
 
 ## Website
 
