@@ -1,3 +1,5 @@
+This repository is a public transparency layer, not the internal ECS operating system.
+
 # ECS Systems Architecture
 
 Public-safe architecture and operating principles for Elite Careers Strategy.
@@ -43,7 +45,7 @@ The ECS system has five public-safe layers:
 - [Architecture](docs/architecture.md)
 - [Proof governance](docs/proof-governance.md)
 - [Intake to engagement](docs/intake-to-engagement.md)
-- [Publication checklist](PUBLICATION-CHECKLIST.md)
+
 
 ## Operating principle
 
