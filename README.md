@@ -53,7 +53,7 @@ Everything else should become a repeatable process, a template, a checklist, a w
 
 ## Status
 
-Private staging repo. Do not make public until the final public-safety review is complete.
+Do not make public until the final public-safety review is complete.
 
 ## Website
 
